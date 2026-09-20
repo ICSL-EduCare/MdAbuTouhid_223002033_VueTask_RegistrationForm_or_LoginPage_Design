@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Registration Form Design
+          Portfolio Design
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
